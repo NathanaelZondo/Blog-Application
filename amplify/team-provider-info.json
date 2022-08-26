@@ -1,0 +1,27 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-recognition-dev-155212-authRole",
+      "UnauthRoleArn": "arn:aws:iam::212271739687:role/amplify-recognition-dev-155212-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::212271739687:role/amplify-recognition-dev-155212-authRole",
+      "Region": "eu-west-3",
+      "DeploymentBucketName": "amplify-recognition-dev-155212-deployment",
+      "UnauthRoleName": "amplify-recognition-dev-155212-unauthRole",
+      "StackName": "amplify-recognition-dev-155212",
+      "StackId": "arn:aws:cloudformation:eu-west-3:212271739687:stack/amplify-recognition-dev-155212/ea484250-c955-11ec-a508-0622e15037a0",
+      "AmplifyAppId": "d2n9yzps8nxemi"
+    },
+    "categories": {
+      "auth": {
+        "recognitionc1995be2": {},
+        "true": {}
+      },
+      "function": {
+        "S3Triggerb289c226": {
+          "deploymentBucketName": "amplify-recognition-dev-155212-deployment",
+          "s3Key": "amplify-builds/S3Triggerb289c226-715832654a6568662f46-build.zip"
+        }
+      }
+    }
+  }
+}
